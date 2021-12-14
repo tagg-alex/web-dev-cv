@@ -1,2 +1,2 @@
-# werb-dev-cv
+# web-dev-cv
 AppBrewey Web Development Course
